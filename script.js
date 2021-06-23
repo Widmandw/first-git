@@ -1,0 +1,1 @@
+//TODO study freecodecamp basic javascript then es6 then algorithm challenges
